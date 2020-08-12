@@ -1,6 +1,7 @@
 # Daniel Felipe Hernández Mancipe
 
-*Salta, ya aparecerá el piso!, Anónimo*
+*Salta, ya aparecerá el piso!*
+*Anónimo*
 
 ## 1. Datos básicos
 	- Fecha de nacimiento: 15 de mayo de 1998 (22 años)
