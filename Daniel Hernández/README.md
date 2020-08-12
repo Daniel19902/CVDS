@@ -1,6 +1,6 @@
 # Daniel Felipe Hernández Mancipe
 
-*Salta, ya aparecerá el piso!*
+*Salta, ya aparecerá el piso!*\
 *Anónimo*
 
 ## 1. Datos básicos
