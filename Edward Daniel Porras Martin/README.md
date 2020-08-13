@@ -26,5 +26,12 @@ TAMBIEN ME GUSTA ARMA CUBOS DE RUBIK Y VER SERIES EN NETFLIX.
 TAMBIEN ME AGUSTA PROGRAMAR Y ME GUSTARIA SER PROGRAMADOR COMPETITIVO. Y LA PRIMERA 
 LINEA QUE ESCRIBI FUE `print("HOLA MUNDO !!!")`
 
-#PARTE 3
+# PARTE 3
+
+![alt](https://github.com/Daniel19902/CVDS/blob/master/Edward%20Daniel%20Porras%20Martin/IMG/2020-08-12.png)
+
+
+
+![alt](https://github.com/Daniel19902/CVDS/blob/master/Edward%20Daniel%20Porras%20Martin/IMG/2020-08-12%20(9).png)
+
 
