@@ -28,7 +28,7 @@ Me considero un buscador, un estudiante curioso que disfruta experimentar y apre
 
 Esto me ha llevado a explorar caminos muy entretenidos, en mi última aventura tuve la fortuna de
 jugar con dos frameworks web que me encantaron, por el lado del servidor [Spring][1] ([Java][1.1]) y por el 
-lado del cliente [Angular][2] ([JavaScript][2.1]).
+lado del cliente [Angular][2] ([TypeScript][2.1]).
 
 Actualmente, estoy iniciando un nuevo camino hacia el desarrollo móvil con [Ionic][3].
 
@@ -37,6 +37,6 @@ Actualmente, estoy iniciando un nuevo camino hacia el desarrollo móvil con [Ion
 [1]: https://spring.io/
 [1.1]: https://www.java.com/es/
 [2]: https://angular.io/
-[2.1]: https://www.javascript.com/
+[2.1]: https://www.typescriptlang.org/
 [3]: https://ionicframework.com/
 [img]: https://avatars1.githubusercontent.com/u/46784330?s=400&u=3eaef59a9df7bd7de66792028f30891c87b9ae76&v=4
